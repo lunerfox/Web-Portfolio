@@ -1,0 +1,14 @@
+div.shadow {
+	width: 275px;
+	height: 225px;
+	margin-bottom: 5px;
+	margin-top:5px;
+	border: 0px solid #ccc;
+	padding: 0px;
+	}
+ 
+div.shadow:hover {
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	}

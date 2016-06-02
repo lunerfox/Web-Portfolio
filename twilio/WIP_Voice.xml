@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say language="en">Hello. This is JARVIS. J A R V I S</Say>
+	<Pause length="1"/>>
+	<Say language="en">Master Leo is currently working on me at the moment, please try back later.</Say>
+</Response>
