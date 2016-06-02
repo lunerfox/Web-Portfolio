@@ -38,9 +38,9 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="">
     <link rel="apple-touch-icon-precomposed" href="">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600' rel='stylesheet' type='text/css'>
-	
+
   </head>
-  
+
   <body id="home" class="hasGoogleVoiceExt">
 
     <div class="navbar navbar-fixed-top">
@@ -85,7 +85,7 @@
 						</div>
 						<div class="item">
 							<img src="img/Hero_5.jpg" alt="">
-						</div>			  
+						</div>
 					</div>
 					<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
 					<a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
@@ -96,23 +96,23 @@
 	<div id="about" class="row">
 		<h3>About me</h3>
 		<p>
-			Thank you for taking the time to visit my portfolio. I'm a recent graduate of UCLA in Electrical Engineering and Computer Engineering. I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister. After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there, I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since. It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development lab, as well as obtaining a Master's degree or an MBA. I'm currently working at Walt Disney Imagineering as a Ride Controls Engineer. My hobbies include Photography, Cycling, Drums, Guitar, as well as developing my own automation assistant, J.A.R.V.I.S. 
+			Thank you for taking the time to visit my portfolio. I've just returned from Shanghai on a project for Disney. I'm a recent graduate of UCLA in Electrical Engineering and Computer Engineering. I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister. After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there, I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since. It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development lab, as well as obtaining a Master's degree or an MBA. I'm currently working at Walt Disney Imagineering as a Ride Controls Engineer. My hobbies include Photography, Cycling, Drums, Guitar, as well as developing my own automation assistant, J.A.R.V.I.S. 
 		</p>
 	</div>
-	  
+
 	<hr>
 		<!-- Portfolio row of columns for Hardware Portfolio -->
 		<div id="portfolio_h" class="row">
 			<div class="span12">
 				<h1>Portfolio (Hardware)</h1>
 			</div>
-			
+
 			<div class="span4 portthumb">
 				<div class="shadow"><img src="img/Port_H_1.jpg" alt=""></a></div>
 					<h5>Mini Coaster</h5>
 					<p>Fully functional Miniature coaster with block zones</p>
 			</div>
-			
+
 			<div class="span4 portthumb">
 				<div class="shadow"><a href="pomegranate.htm"><img src="img/Port_H_2.jpg" alt=""></a></div>
 					<h5>Pomegranate</h5>
@@ -142,7 +142,7 @@
 		<div class="span4 portthumb">
 			<div class="shadow"><img src="img/Port_H_6.jpg" alt=""></div>
 				<h5>Johnny 5</h5>
-				<p>2009 US FIRST Robotics robot</p>  
+				<p>2009 US FIRST Robotics robot</p>
 		</div>
 
 		<div class="span4 portthumb">
@@ -156,15 +156,15 @@
 				<h5>Christmas light equalizer</h5>
 				<p>Sound driven light interface</p>
 		</div>
-      
+
 		<div class="span4 portthumb">
 			<div class="shadow"><a href="polycharge.htm"><img src="img/Port_H_9.jpg" alt=""></a></div>
 				<h5>3x Li-poly charger</h5>
 				<p>Finger sized, low cost li-poly charger</p>
 		</div>
-          
+
     </div>
-	
+
 	<hr>
     <!-- Portfolio row of columns for Software Portfolio -->
     <div id="portfolio_s" class="row">
@@ -200,7 +200,7 @@
 		<div class="span4 portthumb">
 			<div class="shadow"><img src="img/Port_S_5.jpg" alt=""></div>
 				<h5>VisRoute</h5>
-				<p>Logistics Algorithm visualization GUI</p>  
+				<p>Logistics Algorithm visualization GUI</p>
 		</div>
 
 		<div class="span4 portthumb">
@@ -214,20 +214,20 @@
 				<h5>OPS Wiki</h5>
 				<p>UCLA IEEE OPS Program</p>
 		</div>
-      
+
 		<div class="span4 portthumb">
 			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
 				<h5>Coming soon...</h5>
 				<p>More exciting new things to come!</p>
 		</div>
-    </div>	
-	
+    </div>
+
 	<hr>
 	<div id="talks" class="row">
 		<div class="span12">
 			<h1>Talks</h1>
 		</div>
-		
+
 		<div class="span4 portthumb">
 			<div class="shadow"><img src="img/talks-1.jpg" alt=""></div>
 				<h5>Building your Brand</h5>
@@ -239,14 +239,14 @@
 				<h5>Building a high performance student chapter</h5>
 				<p>Antedotes and Advice for new officers</p>
 		</div>
-      
+
 		<div class="span4 portthumb">
 			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
 				<h5>Everyday Leadership for Engineers</h5>
 				<p>Modern philosophies on leadership</p>
-		</div>	
+		</div>
 	</div>
-	
+
 	<hr>
 	<!-- Portfolio row of columns for Hardware Portfolio -->
     <div id="portfolio_n" class="row">
@@ -265,20 +265,20 @@
         <h5>Photography</h5>
         <p>Showcase for past work</p>
       </div>
-	  
+
       <div class="span4 portthumb">
         <div class="shadow"><img src="img/Port_N_3.jpg" alt=""></a></div>
         <h5>Cycling</h5>
         <p>Pursuing an active lifestyle</p>
-      </div>	
-	  
+      </div>
+
 	  <div class="span4 portthumb">
         <div class="shadow"><a href="music.htm"><img src="img/Port_N_4.jpg" alt=""></a></div>
         <h5>Arts</h5>
 		<p>Integrating passion with skill</p>
       </div>
     </div>
-	
+
 	<hr>
 <!-- Services row of columns -->
     <div id="awards" class="row">
@@ -319,17 +319,17 @@
       <hr>
 
       <footer>
-		
+
 		<div align="right">Leo Szeto 2012- Revision 0.7.1 <br><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=1191435&f=0&b=16777215" border="0" height="18" width="83" alt="web counter"></a><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;"></a>
 		</div>
 		<!-- End of SimpleHitCounter Code -->
- 
-      </footer>		
-	  
+
+      </footer>
+
     </div> <!-- /container -->
 
 
-	
+
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
