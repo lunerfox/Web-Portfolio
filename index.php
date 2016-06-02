@@ -1,4 +1,4 @@
-﻿<?php
+<?php
  Header("Cache-Control: max-age=604800, must-revalidate");
 
  $offset = 60 * 60 * 24 * 60;
@@ -153,159 +153,159 @@
 					<p>Compact Micromouse packed with features</p>
 			</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_H_3.jpg" alt=""></div>
-				<h5>Project Atlas</h5>
-				<p>Tiny Natcar with Powerful Modules</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_H_3.jpg" alt=""></div>
+  				<h5>Project Atlas</h5>
+  				<p>Tiny Natcar with Powerful Modules</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="skytanx.htm"><img src="img/Port_H_4.jpg" alt=""></a></div>
-				<h5>SkyTanX</h5>
-				<p>Skype enabled Telepresense robot</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="skytanx.htm"><img src="img/Port_H_4.jpg" alt=""></a></div>
+  				<h5>SkyTanX</h5>
+  				<p>Skype enabled Telepresense robot</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_H_5.jpg" alt=""></div>
-				<h5>CMouse</h5>
-				<p>Dynamic maze solving mouse</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_H_5.jpg" alt=""></div>
+  				<h5>CMouse</h5>
+  				<p>Dynamic maze solving mouse</p>
+  		</div>
 
       <!-- Thumbnails row 2 -->
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_H_6.jpg" alt=""></div>
-				<h5>Johnny 5</h5>
-				<p>2009 US FIRST Robotics robot</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_H_6.jpg" alt=""></div>
+  				<h5>Johnny 5</h5>
+  				<p>2009 US FIRST Robotics robot</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="hally.htm"><img src="img/Port_H_7.jpg" alt=""></a></div>
-				<h5>Hally</h5>
-				<p>Basic Line following robot</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="hally.htm"><img src="img/Port_H_7.jpg" alt=""></a></div>
+  				<h5>Hally</h5>
+  				<p>Basic Line following robot</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_H_8.jpg" alt=""></div>
-				<h5>Christmas light equalizer</h5>
-				<p>Sound driven light interface</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_H_8.jpg" alt=""></div>
+  				<h5>Christmas light equalizer</h5>
+  				<p>Sound driven light interface</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="polycharge.htm"><img src="img/Port_H_9.jpg" alt=""></a></div>
-				<h5>3x Li-poly charger</h5>
-				<p>Finger sized, low cost li-poly charger</p>
-		</div>
-
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="polycharge.htm"><img src="img/Port_H_9.jpg" alt=""></a></div>
+  				<h5>3x Li-poly charger</h5>
+  				<p>Finger sized, low cost li-poly charger</p>
+  		</div>
     </div>
 
 	<hr>
     <!-- Portfolio row of columns for Software Portfolio -->
     <div id="portfolio_s" class="row">
-		<div class="span12">
-			<h1>Portfolio (Software)</h1>
-        </div>
+  		<div class="span12">
+  			<h1>Portfolio (Software)</h1>
+          </div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="#"><img src="img/Port_S_1.jpg" alt=""></a></div>
-				<h5>Project Synchron</h5>
-				<p>Natcar Automation Platform</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_1.jpg" alt=""></a></div>
+  				<h5>Project Synchron</h5>
+  				<p>Natcar Automation Platform</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_2.jpg" alt=""></div>
-				<h5>ToneMatrix Clone</h5>
-				<p>Sequential Music Generator</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_2.jpg" alt=""></div>
+  				<h5>ToneMatrix Clone</h5>
+  				<p>Sequential Music Generator</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="canine.htm"><img src="img/Port_S_3.jpg" alt=""></a></div>
-				<h5>Project Canine</h5>
-				<p>Canine Machine Learning system</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="canine.htm"><img src="img/Port_S_3.jpg" alt=""></a></div>
+  				<h5>Project Canine</h5>
+  				<p>Canine Machine Learning system</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_4.jpg" alt=""></div>
-				<h5>CSim Simulator</h5>
-				<p>Maze solving algorithm visualization GUI</p>
-		</div>
+      <!-- Thumbnails row 2 -->
 
-		<!-- Thumbnails row 2 -->
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_5.jpg" alt=""></div>
-				<h5>VisRoute</h5>
-				<p>Logistics Algorithm visualization GUI</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_4.jpg" alt=""></div>
+  				<h5>CSim Simulator</h5>
+  				<p>Maze solving algorithm visualization GUI</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_6.jpg" alt=""></div>
-				<h5>Project Survival</h5>
-				<p>Top down shooter game</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_5.jpg" alt=""></div>
+  				<h5>VisRoute</h5>
+  				<p>Logistics Algorithm visualization GUI</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><a href="http://ops.ieeebruins.org" target="_blank"><img src="img/Port_S_7.jpg" alt=""></a></div>
-				<h5>OPS Wiki</h5>
-				<p>UCLA IEEE OPS Program</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_6.jpg" alt=""></div>
+  				<h5>Project Survival</h5>
+  				<p>Top down shooter game</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
-				<h5>Coming soon...</h5>
-				<p>More exciting new things to come!</p>
-		</div>
+  		<!-- Thumbnails row 3 -->
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="http://ops.ieeebruins.org" target="_blank"><img src="img/Port_S_7.jpg" alt=""></a></div>
+  				<h5>OPS Wiki</h5>
+  				<p>UCLA IEEE OPS Program</p>
+  		</div>
+
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
+  				<h5>Coming soon...</h5>
+  				<p>More exciting new things to come!</p>
+  		</div>
     </div>
 
 	<hr>
-	<div id="talks" class="row">
-		<div class="span12">
-			<h1>Talks</h1>
-		</div>
+  	<div id="talks" class="row">
+  		<div class="span12">
+  			<h1>Talks</h1>
+      </div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/talks-1.jpg" alt=""></div>
-				<h5>Building your Brand</h5>
-				<p>Getting hired as a new grad</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><img src="img/talks-1.jpg" alt=""></div>
+  				<h5>Building your Brand</h5>
+  				<p>Getting hired as a new grad</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/talks-2.jpg" alt=""></div>
-				<h5>Building a high performance student chapter</h5>
-				<p>Antedotes and Advice for new officers</p>
-		</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="http://prezi.com/wb8sr8yzlc0i/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank"><img src="img/talks-2.jpg" alt=""></div>
+  				<h5>Building a high performance student chapter</h5>
+  				<p>Antedotes and Advice for new officers</p>
+  		</div>
 
-		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/talks-3.jpg" alt=""></div>
-				<h5>Everyday Leadership for Engineers</h5>
-				<p>Modern philosophies on leadership</p>
-		</div>
-	</div>
+  		<div class="span4 portthumb">
+  			<div class="shadow"><a href="http://prezi.com/adpzat_50_rz/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank"><img src="img/talks-3.jpg" alt=""></div>
+  				<h5>Everyday Leadership for Engineers</h5>
+  				<p>Modern philosophies on leadership</p>
+  		</div>
 
-  <div class="span4 portthumb">
-    <div class="shadow"><img src="img/talks-4.jpg" alt=""></div>
-      <h5>This is UCLA IEEE (2015)</h5>
-      <p>Recounting the Success of the Ops Program</p>
-  </div>
+      <div class="span4 portthumb">
+        <div class="shadow"><a href="http://prezi.com/qbtsn9upv_pf/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank"><img src="img/talks-4.jpg" alt=""></div>
+          <h5>This is UCLA IEEE (2015)</h5>
+          <p>Dissecting the success of the Ops Program</p>
+      </div>
 
-  <div class="span4 portthumb">
-    <div class="shadow"><img src="img/talks-5.jpg" alt=""></div>
-      <h5>Getting Started with Python</h5>
-      <p>From Hello World to APIs</p>
-  </div>
+      <div class="span4 portthumb">
+        <div class="shadow"><a href="http://prezi.com/qwgjpzrnruxn/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank"><img src="img/talks-5.jpg" alt=""></div>
+          <h5>Getting Started with Python</h5>
+          <p>From Hello World to APIs</p>
+      </div>
 
-  <div class="span4 portthumb">
-    <div class="shadow"><img src="img/talks-6.jpg" alt=""></div>
-      <h5>We, The Optimists</h5>
-      <p>The mindset towards building a great anything</p>
-  </div>
-</div>
+      <div class="span4 portthumb">
+        <div class="shadow"><a href="http://prezi.com/wclxh3ezudah/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank"><img src="img/talks-6.jpg" alt=""></div>
+          <h5>We, The Optimists</h5>
+          <p>The mindset towards building a great anything</p>
+      </div>
+    </div>
 
 	<hr>
-	<!-- Portfolio row of columns for Hardware Portfolio -->
+	<!-- Portfolio row of columns for Hobbies Portfolio -->
     <div id="portfolio_n" class="row">
-        <div class="span12">
-          <h1>Hobbies and Arts</h1>
-        </div>
+      <div class="span12">
+        <h1>Hobbies and Arts</h1>
+      </div>
 
       <div class="span4 portthumb">
         <div class="shadow"><a href="music.htm"><img src="img/Port_N_1.jpg" alt=""></a></div>
@@ -325,10 +325,16 @@
         <p>Pursuing an active lifestyle</p>
       </div>
 
-	  <div class="span4 portthumb">
-        <div class="shadow"><a href="music.htm"><img src="img/Port_N_4.jpg" alt=""></a></div>
-        <h5>Arts</h5>
-		<p>Integrating passion with skill</p>
+  	  <div class="span4 portthumb">
+          <div class="shadow"><a href="music.htm"><img src="img/Port_N_4.jpg" alt=""></a></div>
+          <h5>Arts</h5>
+  		    <p>Integrating passion with skill</p>
+      </div>
+
+      <div class="span4 portthumb">
+          <div class="shadow"><a href="music.htm"><img src="img/Port_N_5.jpg" alt=""></a></div>
+          <h5>Board Game Design</h5>
+          <p>Math + Creativity = Fun</p>
       </div>
     </div>
 
