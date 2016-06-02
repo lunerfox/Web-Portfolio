@@ -76,7 +76,7 @@
 		<!-- Main hero unit for a primary marketing message or call to action -->
 		<div class="row">
 			<div class="span42">
-				<div id="myCarousel" class="carousel slide">
+				<div id="mainCarousel" class="carousel slide">
 					<div class="carousel-inner">
 						<div class="item active">
 							<img src="img/Hero_1.jpg" alt="">
@@ -91,8 +91,8 @@
 							<img src="img/Hero_5.jpg" alt="">
 						</div>
 					</div>
-					<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
-					<a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+					<a class="left carousel-control" href="#mainCarousel" data-slide="prev">‹</a>
+					<a class="right carousel-control" href="#mainCarousel" data-slide="next">›</a>
 				</div>
 			</div>
 		</div>
@@ -139,7 +139,7 @@
   <!-- Main hero unit for a primary marketing message or call to action -->
   <div class="row">
     <div class="span42">
-      <div id="myCarousel" class="carousel slide">
+      <div id="shdlCarousel" class="carousel slide">
         <div class="carousel-inner">
           <div class="item active">
             <img src="img/SHDL_1.jpg" alt="">
@@ -151,11 +151,11 @@
             <img src="img/SHDL_3.jpg" alt="">
           </div>
           <div class="item">
-            <img src="img/SHDL_5.jpg" alt="">
+            <img src="img/SHDL_4.jpg" alt="">
           </div>
         </div>
-        <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
-        <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+        <a class="left carousel-control" href="#shdlCarousel" data-slide="prev">‹</a>
+        <a class="right carousel-control" href="#shdlCarousel" data-slide="next">›</a>
       </div>
     </div>
   </div>
