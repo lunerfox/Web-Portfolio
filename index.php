@@ -57,6 +57,7 @@
 						<li><a href="#home" class="anchorLink">Home</a></li>
 						<li><a href="#portfolio_h" class="anchorLink">Portfolio (Hardware)</a></li>
 						<li><a href="#portfolio_s" class="anchorLink">Portfolio (Software)</a></li>
+            <li><a href="#courses" class="anchorLink">Courses</a></li>
 						<li><a href="#talks" class="anchorLink">Talks</a></li>
 						<li><a href="#portfolio_n" class="anchorLink">Hobbies</a></li>
 						<li><a href="#awards" class="anchorLink">Recognition</a></li>
@@ -256,6 +257,40 @@
   				<p>More exciting new things to come!</p>
   		</div>
     </div>
+
+  <hr>
+
+  <div id="courses" class="row">
+    <div class="span12">
+      <h1>Courses</h1>
+      <p> Continuing education on relevant and current industry tools.
+    </div>
+
+    <div class="span4 portthumb">
+      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+        <h5>Make Virtual Reality Games in C# with Unity</h5>
+        <p>Ben Tristem</p>
+    </div>
+
+    <div class="span4 portthumb">
+      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+        <h5>The Complete iOS 8 and Swift Course</h5>
+        <p>Rob Percival</p>
+    </div>
+
+    <div class="span4 portthumb">
+      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+        <h5>ControlLogix PLC Programming and Configuration</h5>
+        <p>Rockwell Automation</p>
+    </div>
+
+    <div class="span4 portthumb">
+      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+        <h5>Siemens S7 PLC Programming and Configuration</h5>
+        <p>Siemens</p>
+    </div>
+
+  </div>
 
 	<hr>
   	<div id="talks" class="row">
