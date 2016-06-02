@@ -95,8 +95,9 @@
 
 	<div id="about" class="row">
 		<h3>About me</h3>
-		<p>
-			Thank you for taking the time to visit my portfolio. I've just returned from Shanghai on a project for Disney. I'm a recent graduate of UCLA in Electrical Engineering and Computer Engineering. I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister. After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there, I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since. It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development lab, as well as obtaining a Master's degree or an MBA. I'm currently working at Walt Disney Imagineering as a Ride Controls Engineer. My hobbies include Photography, Cycling, Drums, Guitar, as well as developing my own automation assistant, J.A.R.V.I.S. 
+		<p>Thank you for taking the time to visit my portfolio!</p>
+    <p>
+    I've just returned from Shanghai on a project for Disney. I'm a recent graduate of UCLA in Electrical Engineering and Computer Engineering. I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister. After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there, I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since. It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development lab, as well as obtaining a Master's degree or an MBA. I'm currently working at Walt Disney Imagineering as a Ride Controls Engineer. My hobbies include Photography, Cycling, Drums, Guitar, as well as developing my own automation assistant, J.A.R.V.I.S. 
 		</p>
 	</div>
 
