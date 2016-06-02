@@ -94,44 +94,46 @@
 		</div>
 
 	<div id="about" class="row">
-		<h3>About me</h3>
-		<p>Thank you for taking the time to visit my portfolio!</p>
-    <p>
-    I'm a well-rounded Engineer/Technical Creative with specialities in Computer Science and Embedded Systems, particularly in the field of Automation in the Theme Park industry.
-    Graduating from UCLA with a BS in Electrical Engineering and Computer Engineering, I have recently completed a project in Shanghai Disneyland where I had a leading role in developing and
-    testing the Software of a best-in-class Roller Coaster.
-    </p>
+    <div class="span12">
+      <h3>About me</h3>
+  		<p>Thank you for taking the time to visit my portfolio!</p>
+      <p>
+      I'm a well-rounded Engineer/Technical Creative with specialities in Computer Science and Embedded Systems, particularly in the field of Automation in the Theme Park industry.
+      Graduating from UCLA with a BS in Electrical Engineering and Computer Engineering, I have recently completed a project in Shanghai Disneyland where I had a leading role in developing and
+      testing the Software of a best-in-class Roller Coaster.
+      </p>
 
-    <p>
-    In my free time, I've continued my learning by taking video lectures from Udemy.com, learning the fundamentals of iOS development using Swift, and Unity development.
-    I'm especially interested in Virtual Reality, and believe that it has the potential to revolutionize content delivery.
-    I also study game design and have developed 2 board games.
-    </p>
+      <p>
+      In my free time, I've continued my learning by taking video lectures from Udemy.com, learning the fundamentals of iOS development using Swift, and Unity development.
+      I'm especially interested in Virtual Reality, and believe that it has the potential to revolutionize content delivery.
+      I also study game design and have developed 2 board games.
+      </p>
 
-    <p>
-    My hobbies outside of work include Electronics tinkering, Web development, Game Design, Playing Music, Biking, and Photography. I also do motivational speaking from time to time.
-    </p>
+      <p>
+      My hobbies outside of work include Electronics tinkering, Web development, Game Design, Playing Music, Biking, and Photography. I also do motivational speaking from time to time.
+      </p>
 
-    <h3>History</h3>
-    <p>
-    I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister.
-    After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there,
-    I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since.
-    It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development la.
-    </p>
-
+      <h3>History</h3>
+      <p>
+      I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister.
+      After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there,
+      I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since.
+      It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development la.
+      </p>
+    </div>
 	</div>
 
   <hr>
-   <!-- Portfolio row of columns for Hardware Portfolio -->
-   <div id="portfolio_h" class="row">
+   <!-- Portfolio blurb for Shanghai Disneyland -->
+   <div class="row">
      <div class="span12">
        <h1>Shanghai Disneyland</h1>
      </div>
    </div>
-   <p>
-   In the summer of 2014, I embarked on a grand adventure; Travel half-way across the world to Shanghai to build the first ever Disneyland in Mainland China, and the 6th Happiest place on earth.
-   </p>
+   <p>In the summer of 2014, I embarked on a grand adventure; Travel half-way across the world to Shanghai to build the first ever Disneyland in Mainland China, and the 6th Happiest place on earth.</p>
+   <p>I spent the last 22 months on the field, taking the design from concept to implementation.</p>
+   <p>As a Ride Controls Software Engineer, my job was to design and implement the control software for a family-oriented Roller coaster, Seven Dwarfs Mine Train.</p>
+   <p>The software interfaces with over 1500+ components, and utilizes a variety of strategies to maintain close control of all vehicles in the attraction, ensuring the safety of guests in all circumstances</p>
 	<hr>
 		<!-- Portfolio row of columns for Hardware Portfolio -->
 		<div id="portfolio_h" class="row">
@@ -267,17 +269,36 @@
 		</div>
 
 		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
+			<div class="shadow"><img src="img/talks-2.jpg" alt=""></div>
 				<h5>Building a high performance student chapter</h5>
 				<p>Antedotes and Advice for new officers</p>
 		</div>
 
 		<div class="span4 portthumb">
-			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
+			<div class="shadow"><img src="img/talks-3.jpg" alt=""></div>
 				<h5>Everyday Leadership for Engineers</h5>
 				<p>Modern philosophies on leadership</p>
 		</div>
 	</div>
+
+  <div class="span4 portthumb">
+    <div class="shadow"><img src="img/talks-4.jpg" alt=""></div>
+      <h5>This is UCLA IEEE (2015)</h5>
+      <p>Recounting the Success of the Ops Program</p>
+  </div>
+
+  <div class="span4 portthumb">
+    <div class="shadow"><img src="img/talks-5.jpg" alt=""></div>
+      <h5>Getting Started with Python</h5>
+      <p>From Hello World to APIs</p>
+  </div>
+
+  <div class="span4 portthumb">
+    <div class="shadow"><img src="img/talks-6.jpg" alt=""></div>
+      <h5>We, The Optimists</h5>
+      <p>The mindset towards building a great anything</p>
+  </div>
+</div>
 
 	<hr>
 	<!-- Portfolio row of columns for Hardware Portfolio -->
