@@ -11,9 +11,12 @@
 
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+  <!-- Mobile Specific Metas
+  ================================================== -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
     <meta charset="utf-8">
     <title>Leo Szeto - Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Portfolio">
     <meta name="author" content="Leo Szeto">
 
@@ -131,6 +134,32 @@
        <h1>Shanghai Disneyland</h1>
      </div>
    </div>
+
+   <div class="container">
+  <!-- Main hero unit for a primary marketing message or call to action -->
+  <div class="row">
+    <div class="span42">
+      <div id="myCarousel" class="carousel slide">
+        <div class="carousel-inner">
+          <div class="item active">
+            <img src="img/SHDL_1.jpg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/SHDL_2.jpg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/SHDL_3.jpg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/SHDL_5.jpg" alt="">
+          </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+      </div>
+    </div>
+  </div>
+
    <p>In the summer of 2014, I embarked on a grand adventure; Travel half-way across the world to Shanghai to build the first ever Disneyland in Mainland China, and the 6th Happiest place on earth.</p>
    <p>I spent the last 22 months on the field, taking the design from concept to implementation.</p>
    <p>As a Ride Controls Software Engineer, my job was to design and implement the control software for a family-oriented Roller coaster, Seven Dwarfs Mine Train.</p>
