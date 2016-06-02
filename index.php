@@ -263,29 +263,30 @@
   <div id="courses" class="row">
     <div class="span12">
       <h1>Courses</h1>
-      <p> Continuing education on relevant and current industry tools.
     </div>
 
+    <div class="span12"><h3>Game Development and Mobile</h3></div>
     <div class="span4 portthumb">
-      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+      <div class="shadow"><img src="img/Course-1.jpg" alt=""></div>
         <h5>Make Virtual Reality Games in C# with Unity</h5>
         <p>Ben Tristem</p>
     </div>
 
     <div class="span4 portthumb">
-      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+      <div class="shadow"><img src="img/Course-2.jpg" alt=""></div>
         <h5>The Complete iOS 8 and Swift Course</h5>
         <p>Rob Percival</p>
     </div>
 
+    <div class="span12"><h3>Automation Systems</h3></div>
     <div class="span4 portthumb">
-      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+      <div class="shadow"><img src="img/Course-3.jpg" alt=""></div>
         <h5>ControlLogix PLC Programming and Configuration</h5>
         <p>Rockwell Automation</p>
     </div>
 
     <div class="span4 portthumb">
-      <div class="shadow"><img src="img/portfolioph.jpg" alt=""></div>
+      <div class="shadow"><img src="img/Course-4.jpg" alt=""></div>
         <h5>Siemens S7 PLC Programming and Configuration</h5>
         <p>Siemens</p>
     </div>
