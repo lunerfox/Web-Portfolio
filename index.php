@@ -397,7 +397,7 @@
       </div>
 
       <div class="span4 portthumb">
-          <div class="shadow"><a href="music.htm"><img src="img/Port_N_5.jpg" alt=""></a></div>
+          <div class="shadow"><a href="music.htm"><img src="img/portfolioph.jpg" alt=""></a></div>
           <h5>Board Game Design</h5>
           <p>Math + Creativity = Fun</p>
       </div>
