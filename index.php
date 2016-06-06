@@ -232,8 +232,14 @@
     <!-- Portfolio row of columns for Software Portfolio -->
     <div id="portfolio_s" class="row">
   		<div class="span12">
-  			<h1>Portfolio (Software)</h1>
-          </div>
+  			<h1>Portfolio (Software) <a href="https://github.com/lunerfox" target="_blank">[GitHub]</a></h1>
+      </div>
+
+      <div class="span4 portthumb">
+  			<div class="shadow"><a href="http://ieeeusa.org/volunteers/committees/spax/" target="_blank"><img src="img/Port_S_8.jpg" alt=""></div>
+  				<h5>SPAx Website</h5>
+  				<p>IEEE-USA Student Professional Experience</p>
+  		</div>
 
   		<div class="span4 portthumb">
   			<div class="shadow"><img src="img/Port_S_1.jpg" alt=""></a></div>
@@ -280,11 +286,6 @@
   				<p>UCLA IEEE OPS Program</p>
   		</div>
 
-  		<div class="span4 portthumb">
-  			<div class="shadow"><img src="img/Port_S_8.jpg" alt=""></div>
-  				<h5>Coming soon...</h5>
-  				<p>More exciting new things to come!</p>
-  		</div>
     </div>
 
   <hr>
@@ -326,7 +327,11 @@
   	<div id="talks" class="row">
   		<div class="span12">
   			<h1>Talks</h1>
+        <p>Public speaking is one of my hobbies, and I've often jumped at opportunities to share what I've learned professionally and personnally with others.
+          I've given numberous talks on leadership and building impactful change to Engineers and high school students domestically and internationally. </p>
       </div>
+
+
 
   		<div class="span4 portthumb">
   			<div class="shadow"><img src="img/talks-1.jpg" alt=""></div>
