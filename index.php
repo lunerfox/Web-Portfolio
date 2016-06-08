@@ -172,7 +172,7 @@
 			</div>
 
 			<div class="span4 portthumb">
-				<div class="shadow"><img src="img/Port_H_1.jpg" alt=""></a></div>
+				<div class="shadow"><a href="minicoaster.htm"><img src="img/Port_H_1.jpg" alt=""></a></div>
 					<h5>Mini Coaster</h5>
 					<p>Fully functional Miniature coaster with block zones</p>
 			</div>
