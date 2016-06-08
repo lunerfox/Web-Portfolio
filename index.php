@@ -122,7 +122,7 @@
       I was born in Hong Kong in 1988, and immigrated to the United States in 1998, as my parents had wanted better educational opportunities for me and my sister.
       After graduating at Westmoor High School in the class of 2006, I attended Skyline College and City College of San Francisco to pursue my B.S. While there,
       I developed an interest in Robotics and Embedded systems, as well as computer programming. I later moved to Southern California to attend UCLA and have been in Los Angeles since.
-      It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development la.
+      It is my hope that I will be able to continue my studies in the field of Mechatronics, with a future career goal of being a senior engineer at a Research and Development lab.
       </p>
     </div>
 	</div>
