@@ -449,7 +449,7 @@
 
       <footer>
 
-		<div align="right">Leo Szeto 2012- Revision 0.7.1 <br><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=1191435&f=0&b=16777215" border="0" height="18" width="83" alt="web counter"></a><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;"></a>
+		<div align="right">Leo Szeto 2016- Revision 0.8.1 <br><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=1191435&f=0&b=16777215" border="0" height="18" width="83" alt="web counter"></a><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;"></a>
 		</div>
 		<!-- End of SimpleHitCounter Code -->
 
