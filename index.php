@@ -417,7 +417,8 @@
 
         <div class="span4">
 			<h5>HSSEAS Featured Student</h5>
-			<p>I was selected by the UCLA school of engineering as an examplary student in the Electrical Engineering Department for 2012. <a href="http://www.engineer.ucla.edu/visitor-links/current-students/student-profiles/LeoSzetoEE" target="_blank"> Link </a> </p>
+			<p>I was selected by the UCLA school of engineering as an examplary student in the Electrical Engineering Department for 2012. <a href="http://engineering.ucla.edu/leoszetoee/" target="_blank"> Link </a> </p>
+      <!--Alternative Link in case this one goes down: https://web.archive.org/web/20150906163324/http://engineering.ucla.edu/leoszetoee/-->
 		</div>
 
         <div class="span4">
